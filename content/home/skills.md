@@ -42,7 +42,7 @@ subtitle = ""
   icon = "github"
   icon_pack = "fab"
   name = "GitHub"
-
+  
   
 [[feature]]
   icon = "cloud"
@@ -50,23 +50,18 @@ subtitle = ""
   name = "Cloud Computing"
   description = "AWS, Azure, IBM Watson"
   
-[[feature]]
-  icon = "cloud"
-  icon_pack = "fas"
-  name = "Cloud Computing"
-  description = "AWS, Azure, IBM Watson"
-  
-[[feature]]
-  icon = "cloud"
-  icon_pack = "fas"
-  name = "Cloud Computing"
-  description = "AWS, Azure, IBM Watson"
   
 [[feature]]
   icon = "sql"
   icon_pack = "custom"
   name = "SQL"
-
+  
+  
+[[feature]]
+  icon = "microsoft"
+  icon_pack = "fab"
+  name = "Microsoft Office"
+ 
 
 # Uncomment to use emoji icons.
 # [[feature]]

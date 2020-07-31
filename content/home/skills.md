@@ -61,6 +61,11 @@ subtitle = ""
   icon = "microsoft"
   icon_pack = "fab"
   name = "Microsoft Office"
+  
+[[feature]]
+  icon = "logic"
+  icon_pack = "custom"
+  name = "Logic Pro X"
  
 
 # Uncomment to use emoji icons.

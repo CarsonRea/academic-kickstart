@@ -28,7 +28,7 @@ education:
     - course: BA in Economics and Mathematics
       institution: Emory University
       year: 2021
-    - course: BS in Industrial and Systems Engineering, 2023
+    - course: BS in Industrial and Systems Engineering
       institution: Georgia Institute of Technology
       year: 2023
 email: ""

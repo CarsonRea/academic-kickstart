@@ -18,19 +18,55 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "python"
+  icon_pack = "fab"
+  name = "Python"
+
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "java"
+  icon_pack = "fab"
+  name = "Java"
+
+  
+[[feature]]
+  icon = "overleaf"
+  icon_pack = "ai"
+  name = "Overleaf"
+
+  
+[[feature]]
+  icon = "github"
+  icon_pack = "fab"
+  name = "GitHub"
+
+  
+[[feature]]
+  icon = "cloud"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Cloud Computing"
+  description = "AWS, Azure, IBM Watson"
+  
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Computing"
+  description = "AWS, Azure, IBM Watson"
+  
+[[feature]]
+  icon = "cloud"
+  icon_pack = "fas"
+  name = "Cloud Computing"
+  description = "AWS, Azure, IBM Watson"
+  
+[[feature]]
+  icon = "sql"
+  icon_pack = "custom"
+  name = "SQL"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]

@@ -36,4 +36,4 @@ superuser: true
 user_groups:
   - ""
 ---
-I am interested in discovering optimal ways of reducing wealth and social inequality domestically. I am also interested in finding effective methods of relieving the political tension plaguing and dividing the country, using reason, respect, and compassion. I am planning to complete a second Bachelor's degree in Industrial and Systems Engineering from the Georgia Institute of Technology upon graduating from Emory University.
+I am interested in discovering optimal ways of reducing wealth and social inequality domestically. I am also interested in finding effective methods of relieving the political tension plaguing and dividing the country using reason, respect, and compassion. I am planning to complete a second Bachelor's degree in Industrial and Systems Engineering from the Georgia Institute of Technology upon graduating from Emory University.

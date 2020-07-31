@@ -11,7 +11,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: chrea@emory.edu
+    link: mailto:chrea@emory.edu
   - icon: github
     icon_pack: fab
     link: https://github.com/CarsonRea

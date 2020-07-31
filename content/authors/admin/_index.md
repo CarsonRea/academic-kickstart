@@ -1,7 +1,7 @@
 ---
 title: Carson Rea
 role: Undergraduate student
-avatar_filename: img_8832.jpg
+avatar_filename: avatar.jpg
 bio: Emory University
 interests:
   - Applied microeconomics

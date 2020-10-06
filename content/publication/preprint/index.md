@@ -32,7 +32,7 @@ tags:
 featured: true
 
 links: 
-url_pdf: http://pages.iu.edu/~kphuynh/rsch/vol.pdf
+url_pdf: https://www.dropbox.com/s/o39zv6rrhuwgfyv/JEM_Teaching_Corner.pdf?dl=0
 url_code: ''
 url_dataset: ''
 url_poster: ''

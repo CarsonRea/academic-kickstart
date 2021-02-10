@@ -1,13 +1,12 @@
 ---
-title: "Econometrics Pedagogy and Cloud Computing: Training the Next Generation of Economists and Data Scientists"
-authors:
-- Danielle V. Handel
-- Anson T. Y. Ho
-- Kim P. Huynh
-- David T. Jacho-Chavez
-- Carson H. Rea
-date: "2019-04-07T00:00:00Z"
-doi: ""
+title = "Econometrics Pedagogy and Cloud Computing: Training the Next Generation of Economists and Data Scientists"
+date = "2021-01-01"
+publishDate = "2021-01-01"
+authors = ["D.V. Handel", "A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez", "C. Rea"]
+publication_types = ["2"]
+publication = "**Journal of Econometric Methods**, (10), pp. 89-102"
+publication_short = "**Journal of Econometric Methods**, (10), pp. 89-102"
+doi = "10.1515/jem-2020-0012"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-07-28T00:00:00Z"

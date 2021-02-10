@@ -1,7 +1,13 @@
 ---
-title = "Econometrics Pedagogy and Cloud Computing: Training the Next Generation of Economists and Data Scientists"
-authors = ["D.V. Handel", "A.T.Y. Ho", "K.P. Huynh", "D.T. Jacho-Chavez", "C. Rea"]
-doi = "10.1515/jem-2020-0012"
+title: "Econometrics Pedagogy and Cloud Computing: Training the Next Generation of Economists and Data Scientists"
+authors: 
+- D.V. Handel
+- A.T.Y. Ho 
+- K.P. Huynh 
+- D.T. Jacho-Chavez 
+- C. Rea
+date: "2021-01-01T00:00:00Z"
+doi: "10.1515/jem-2020-0012"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ""2021-01-01""

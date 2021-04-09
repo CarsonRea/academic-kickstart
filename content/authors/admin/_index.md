@@ -36,4 +36,4 @@ superuser: true
 user_groups:
   - ""
 ---
-I am interested in discovering optimal ways of reducing wealth and social inequality domestically. I am also interested in finding effective methods of relieving the political tension plaguing and dividing the country using reason, respect, and compassion. I am planning to complete a second Bachelor's degree in Industrial and Systems Engineering from the Georgia Institute of Technology upon graduating from Emory University.
+I am a third-year math-econ joint major undergraduate student at Emory University pursuing a second bachelor’s degree in Industrial and Systems Engineering at the Georgia Institute of Technology. I am Graduating in May 2024. My area of interest is theoretical microeconomics; however, I am also passionate about making education more accessible through technology.

@@ -27,10 +27,10 @@ education:
   courses:
     - course: BA in Economics and Mathematics
       institution: Emory University
-      year: 2021
+      year: 2022
     - course: BS in Industrial and Systems Engineering
       institution: Georgia Institute of Technology
-      year: 2023
+      year: 2024
 email: ""
 superuser: true
 user_groups:
